@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejercicio5
+comment1.params=nums
+comment1.target=boolean\ splitOdd10(int[])
+comment2.params=nums\ fgroup\ sgroup\ level
+comment2.target=boolean\ split(int[],\ int,\ int,\ int)
+comment3.params=arr
+comment3.target=int\ sumArr(int[])
+numComments=4
