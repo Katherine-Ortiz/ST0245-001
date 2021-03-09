@@ -1,6 +1,5 @@
 
-public class Ejercicio5
-{
+    public class Ejercicio5{
  public boolean splitOdd10(int[] nums) {
         return this.split(nums, 0, 0, 0);
     }
