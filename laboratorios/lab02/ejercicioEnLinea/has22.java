@@ -1,4 +1,4 @@
-public class array2 {
+public class array2{
 
     public boolean has22(int[] nums) {
         for(int i = 0;i<nums.length-1;i++){
@@ -6,5 +6,6 @@ public class array2 {
                 return true;
             }
         }
-            return false;
+                return false;
+    }
 }
